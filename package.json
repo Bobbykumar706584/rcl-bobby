@@ -1,12 +1,12 @@
 {
-  "name": "hello-world-react-component-library",
-  "description": "A Collection of Components for Telling the World Hello.",
+  "name": "rcl-bobby",
+  "description": "creating react-component-library",
   "version": "0.0.6",
   "private": false,
-  "homepage": "https://unfoldingword-box3.github.io/hello-world-react-component-library/",
+  "homepage": "https://github.com/Bobbykumar706584/rcl-bobby/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/unfoldingWord-box3/hello-world-react-component-library"
+    "url": "https://github.com/Bobbykumar706584/rcl-bobby"
   },
   "license": "MIT",
   "engines": {
